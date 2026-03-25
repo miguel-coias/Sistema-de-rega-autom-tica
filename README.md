@@ -1,6 +1,4 @@
 # Sistema de rega automatica
-Resumo do Projeto
-
 O nosso projeto consiste no desenvolvimento de um sistema inteligente de monitorização de plantas, utilizando um Arduino com um sensor de humidade do solo, ligado a uma aplicação móvel.
 
 A ideia é que o dispositivo recolha dados sobre a humidade da terra e envie essa informação para a app. Na aplicação, o utilizador pode selecionar o tipo de planta que tem, e com base nisso o sistema interpreta os valores de humidade.
